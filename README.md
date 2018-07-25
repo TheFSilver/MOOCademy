@@ -1,4 +1,4 @@
-# Ze Super Blog stylé
+# Ze Super MOOCademy stylé
 
 
 Salut mon p'tit chat ! Bienvenue sur le repository de la superbe application Rails de François Dasylva et Jeremy Rak !
